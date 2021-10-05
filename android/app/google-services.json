@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "833361710843",
+    "project_id": "surucum-com-app",
+    "storage_bucket": "surucum-com-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833361710843:android:2021a6b6e3974d214a2a5e",
+        "android_client_info": {
+          "package_name": "com.koralturk.surucum_beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833361710843-l22qqbej9dioebsp9tcdb9mdifcaukhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koralturk.surucum_beta",
+            "certificate_hash": "4cd47b80c844431a046592d6101e40b078cb8495"
+          }
+        },
+        {
+          "client_id": "833361710843-7h96ijm73m72bpgg75i4m5p6cs6c1otr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4HJ8n3JoemVY72pJhKXthw9r9rbXpuf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833361710843-7h96ijm73m72bpgg75i4m5p6cs6c1otr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

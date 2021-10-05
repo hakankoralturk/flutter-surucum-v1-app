@@ -1,0 +1,7 @@
+{
+    "login_screen": {
+        "textfield_hint_username": "Kullanıcı Kimliği",
+        "textfield_hint_password": "Parola",
+        "button_login": "Giriş"
+    }
+}

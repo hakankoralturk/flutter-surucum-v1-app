@@ -26,7 +26,7 @@ Used pubs
  - barcode_scan
  - flushbar
 
- ![surucum](https://raw.github.com/hakankoralturk/surucum-v1/master/screenshot1.png)
- ![surucum](https://raw.github.com/hakankoralturk/surucum-v1/master/screenshot2.png)
- ![surucum](https://raw.github.com/hakankoralturk/surucum-v1/master/screenshot3.png)
- ![surucum](https://raw.github.com/hakankoralturk/surucum-v1/master/screenshot4.png)
+![screenshot4](https://github.com/hakankoralturk/flutter-surucum-v1-app/assets/6048097/514febee-54e7-4aac-b58e-ec76e4294a07)
+![screenshot3](https://github.com/hakankoralturk/flutter-surucum-v1-app/assets/6048097/32976645-28de-424b-a708-6d85ce17ff7e)
+![screenshot2](https://github.com/hakankoralturk/flutter-surucum-v1-app/assets/6048097/ef399451-d990-45a0-a910-2046c1efe24b)
+![screenshot1](https://github.com/hakankoralturk/flutter-surucum-v1-app/assets/6048097/149f2326-e103-4e6b-9f98-33929cc4938e)
